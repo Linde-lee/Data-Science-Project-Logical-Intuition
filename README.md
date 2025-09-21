@@ -7,13 +7,14 @@ This project not only solidified my interest in AI and data science but gave me 
 
 **Repository Contents**
 - Final Project_Logical Intuition_LindeLiu.ipynb
-- tidy_data1.csv: data (cleaned dataset)
+- tidy_data1.csv (cleaned dataset)
 
 **Methods & Tools**
 Languages & Libraries: Python, Pandas, NumPy, Matplotlib/Seaborn, scikit-learn, TensorFlow/Keras (for the neural net).
 Techniques: data cleaning, descriptive statistics, hypothesis testing, correlation analysis, regression modeling, and neural networks.
 
 **How to Run**
+
 Clone the repository:
 git clone https://github.com/Linde-lee/Data-Science-Project-Logical-Intuition.git
 cd Data-Science-Project-Logical-Intuition

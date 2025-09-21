@@ -6,7 +6,7 @@ The biggest challenge was overcoming my lack of prior technical background, but 
 This project not only solidified my interest in AI and data science but gave me confidence in applying analytical tools to abstract, cognitive topics—something I now want to pursue professionally.
 
 **Repository Contents**
-- Final Project_Logical Intuition_LindeLiu.ipynb — the main Jupyter notebook containing the full workflow (EDA → statistical testing → modeling).
+- Final Project_Logical Intuition_LindeLiu.ipynb
 - tidy_data1.csv: data (cleaned dataset)
 
 **Methods & Tools**

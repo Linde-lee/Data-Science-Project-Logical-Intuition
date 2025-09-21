@@ -7,7 +7,7 @@ This project not only solidified my interest in AI and data science but gave me 
 
 **Repository Contents**
 - Final Project_Logical Intuition_LindeLiu.ipynb — the main Jupyter notebook containing the full workflow (EDA → statistical testing → modeling).
-- data (cleaned dataset)
+- tidy_data1.csv: data (cleaned dataset)
 
 **Methods & Tools**
 Languages & Libraries: Python, Pandas, NumPy, Matplotlib/Seaborn, scikit-learn, TensorFlow/Keras (for the neural net).
